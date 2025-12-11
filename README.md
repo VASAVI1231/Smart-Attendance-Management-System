@@ -18,28 +18,28 @@ It eliminates manual attendance errors and provides instant analytics through vi
 
 🏆 Key Features
 
-Admin
+Admin:
 Add Branches
 Manage Classes & Students
 View Branch-wise & College-wise Attendance
 Generate Reports
 Visual Analytics (Pie & Bar Graphs)
 
-HOD
+HOD:
 View all classes
 Check branch-wise attendance
 Analyze performance using charts
 
-Lecturer
+Lecturer:
 Add/Edit/Delete student details
 Manage TimeTable
 View attendance summaries
 
-Class Lecturer
+Class Lecturer:
 Mark hour-wise attendance
 View student details
 
-Unique Advantage
+Unique Advantage:
 ✔ Traditional colleges calculate day-wise attendance
 ✔ Our system calculates hour-wise attendance → More accurate, less manipulation
 
